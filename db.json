@@ -4,6 +4,17 @@
       "title": "Streams Saya",
       "Description": "Stream Pertama saya!",
       "id": 1
+    },
+    {
+      "title": "Stream Ke 2",
+      "Description": "Stream Ke dua saya",
+      "id": 2
+    },
+    {
+      "title": "Stream saya yang ke 3!",
+      "Description": "Dibuat Oleh saya!",
+      "userId": "101178931773822445542",
+      "id": 3
     }
   ]
 }
